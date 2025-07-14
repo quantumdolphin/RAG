@@ -31,8 +31,7 @@ pip install pymupdf pillow pytesseract
 
 📅 [Download EXE Installer from UB Mannheim](https://github.com/UB-Mannheim/tesseract/wiki)
 
-Example direct link:
-[tesseract-ocr-w64-setup-5.3.3.20231005.exe](https://github.com/UB-Mannheim/tesseract/releases/download/v5.3.3.20231005/tesseract-ocr-w64-setup-5.3.3.20231005.exe)
+
 
 ### ✅ During install:
 
